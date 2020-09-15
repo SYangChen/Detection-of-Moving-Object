@@ -11,6 +11,7 @@ UBUNTU版本 16.04.6 LTS 以上
 python3版本 3.5.2 以上
 
 所需套件：
+
 (1) pip3
 版本：8.1.1 以上
 確認版本: pip3 --version
